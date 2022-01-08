@@ -6,9 +6,7 @@ The software i have in this portfolio as of right now include a hello world prog
 
 My purpose in creating the hello world program is to show i know basic python and know how to publish and work along with github, because if i plan to create games and publish them onto github i need to know how to put them into github. Think of it as practice for future endeavors. 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/wWQUldNafWE)
 
 # Development Environment
 
